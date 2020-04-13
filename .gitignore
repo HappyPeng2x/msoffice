@@ -1,0 +1,9 @@
+Makefile
+CMakeCache.txt
+CMakeFiles
+attack
+build
+cmake_install.cmake
+libmsoc.so
+libmsoclib.a
+msoffice-crypt
