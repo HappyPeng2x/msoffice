@@ -1,0 +1,4 @@
+[submodule "cybozulib"]
+	path = cybozulib
+	url = https://github.com/HappyPeng2x/cybozulib.git
+	branch = master
